@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rainahxep.hostettler.net/sitemap.xml
